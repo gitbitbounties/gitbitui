@@ -1,0 +1,2 @@
+# gitbitui
+UI for gitbit
